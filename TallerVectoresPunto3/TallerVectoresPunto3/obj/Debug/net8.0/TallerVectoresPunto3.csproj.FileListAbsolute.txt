@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\TallerVectoresPunto3\TallerVectoresPunto3\obj\Debug\net8.0\TallerVectoresPunto3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\TallerVectoresPunto3\TallerVectoresPunto3\obj\Debug\net8.0\TallerVectoresPunto3.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\TallerVectoresPunto3\TallerVectoresPunto3\obj\Debug\net8.0\TallerVectoresPunto3.AssemblyInfo.cs
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\TallerVectoresPunto3\TallerVectoresPunto3\obj\Debug\net8.0\TallerVectoresPunto3.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\TallerVectoresPunto3\TallerVectoresPunto3\obj\Debug\net8.0\TallerVectoresPunto3.sourcelink.json
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\TallerVectoresPunto3\TallerVectoresPunto3\bin\Debug\net8.0\TallerVectoresPunto3.exe
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\TallerVectoresPunto3\TallerVectoresPunto3\bin\Debug\net8.0\TallerVectoresPunto3.deps.json
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\TallerVectoresPunto3\TallerVectoresPunto3\bin\Debug\net8.0\TallerVectoresPunto3.runtimeconfig.json
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\TallerVectoresPunto3\TallerVectoresPunto3\bin\Debug\net8.0\TallerVectoresPunto3.dll
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\TallerVectoresPunto3\TallerVectoresPunto3\bin\Debug\net8.0\TallerVectoresPunto3.pdb
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\TallerVectoresPunto3\TallerVectoresPunto3\obj\Debug\net8.0\TallerVectoresPunto3.dll
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\TallerVectoresPunto3\TallerVectoresPunto3\obj\Debug\net8.0\refint\TallerVectoresPunto3.dll
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\TallerVectoresPunto3\TallerVectoresPunto3\obj\Debug\net8.0\TallerVectoresPunto3.pdb
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\TallerVectoresPunto3\TallerVectoresPunto3\obj\Debug\net8.0\TallerVectoresPunto3.genruntimeconfig.cache
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\TallerVectoresPunto3\TallerVectoresPunto3\obj\Debug\net8.0\ref\TallerVectoresPunto3.dll

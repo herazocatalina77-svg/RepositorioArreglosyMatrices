@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Matrices1Oct\Matrices1Oct\bin\Debug\net8.0\Matrices1Oct.exe
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Matrices1Oct\Matrices1Oct\bin\Debug\net8.0\Matrices1Oct.deps.json
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Matrices1Oct\Matrices1Oct\bin\Debug\net8.0\Matrices1Oct.runtimeconfig.json
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Matrices1Oct\Matrices1Oct\bin\Debug\net8.0\Matrices1Oct.dll
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Matrices1Oct\Matrices1Oct\bin\Debug\net8.0\Matrices1Oct.pdb
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Matrices1Oct\Matrices1Oct\obj\Debug\net8.0\Matrices1Oct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Matrices1Oct\Matrices1Oct\obj\Debug\net8.0\Matrices1Oct.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Matrices1Oct\Matrices1Oct\obj\Debug\net8.0\Matrices1Oct.AssemblyInfo.cs
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Matrices1Oct\Matrices1Oct\obj\Debug\net8.0\Matrices1Oct.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Matrices1Oct\Matrices1Oct\obj\Debug\net8.0\Matrices1Oct.sourcelink.json
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Matrices1Oct\Matrices1Oct\obj\Debug\net8.0\Matrices1Oct.dll
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Matrices1Oct\Matrices1Oct\obj\Debug\net8.0\refint\Matrices1Oct.dll
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Matrices1Oct\Matrices1Oct\obj\Debug\net8.0\Matrices1Oct.pdb
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Matrices1Oct\Matrices1Oct\obj\Debug\net8.0\Matrices1Oct.genruntimeconfig.cache
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Matrices1Oct\Matrices1Oct\obj\Debug\net8.0\ref\Matrices1Oct.dll
