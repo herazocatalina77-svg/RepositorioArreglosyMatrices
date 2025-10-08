@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Punto4tallervectores\Punto4tallervectores\bin\Debug\net8.0\Punto4tallervectores.exe
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Punto4tallervectores\Punto4tallervectores\bin\Debug\net8.0\Punto4tallervectores.deps.json
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Punto4tallervectores\Punto4tallervectores\bin\Debug\net8.0\Punto4tallervectores.runtimeconfig.json
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Punto4tallervectores\Punto4tallervectores\bin\Debug\net8.0\Punto4tallervectores.dll
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Punto4tallervectores\Punto4tallervectores\bin\Debug\net8.0\Punto4tallervectores.pdb
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Punto4tallervectores\Punto4tallervectores\obj\Debug\net8.0\Punto4tallervectores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Punto4tallervectores\Punto4tallervectores\obj\Debug\net8.0\Punto4tallervectores.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Punto4tallervectores\Punto4tallervectores\obj\Debug\net8.0\Punto4tallervectores.AssemblyInfo.cs
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Punto4tallervectores\Punto4tallervectores\obj\Debug\net8.0\Punto4tallervectores.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Punto4tallervectores\Punto4tallervectores\obj\Debug\net8.0\Punto4tallervectores.sourcelink.json
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Punto4tallervectores\Punto4tallervectores\obj\Debug\net8.0\Punto4tallervectores.dll
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Punto4tallervectores\Punto4tallervectores\obj\Debug\net8.0\refint\Punto4tallervectores.dll
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Punto4tallervectores\Punto4tallervectores\obj\Debug\net8.0\Punto4tallervectores.pdb
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Punto4tallervectores\Punto4tallervectores\obj\Debug\net8.0\Punto4tallervectores.genruntimeconfig.cache
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\Punto4tallervectores\Punto4tallervectores\obj\Debug\net8.0\ref\Punto4tallervectores.dll
