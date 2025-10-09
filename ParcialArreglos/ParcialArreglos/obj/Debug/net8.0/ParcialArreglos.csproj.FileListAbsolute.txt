@@ -1,0 +1,15 @@
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\ParcialArreglos\ParcialArreglos\bin\Debug\net8.0\ParcialArreglos.exe
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\ParcialArreglos\ParcialArreglos\bin\Debug\net8.0\ParcialArreglos.deps.json
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\ParcialArreglos\ParcialArreglos\bin\Debug\net8.0\ParcialArreglos.runtimeconfig.json
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\ParcialArreglos\ParcialArreglos\bin\Debug\net8.0\ParcialArreglos.dll
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\ParcialArreglos\ParcialArreglos\bin\Debug\net8.0\ParcialArreglos.pdb
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\ParcialArreglos\ParcialArreglos\obj\Debug\net8.0\ParcialArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\ParcialArreglos\ParcialArreglos\obj\Debug\net8.0\ParcialArreglos.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\ParcialArreglos\ParcialArreglos\obj\Debug\net8.0\ParcialArreglos.AssemblyInfo.cs
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\ParcialArreglos\ParcialArreglos\obj\Debug\net8.0\ParcialArreglos.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\ParcialArreglos\ParcialArreglos\obj\Debug\net8.0\ParcialArreglos.sourcelink.json
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\ParcialArreglos\ParcialArreglos\obj\Debug\net8.0\ParcialArreglos.dll
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\ParcialArreglos\ParcialArreglos\obj\Debug\net8.0\refint\ParcialArreglos.dll
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\ParcialArreglos\ParcialArreglos\obj\Debug\net8.0\ParcialArreglos.pdb
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\ParcialArreglos\ParcialArreglos\obj\Debug\net8.0\ParcialArreglos.genruntimeconfig.cache
+C:\Users\Acer\Desktop\RepositorioArreglosyMatrices\ParcialArreglos\ParcialArreglos\obj\Debug\net8.0\ref\ParcialArreglos.dll
